@@ -1,4 +1,4 @@
-# Microdegree
+# Micro
 this is for jenkins
 done 
 build periodically
